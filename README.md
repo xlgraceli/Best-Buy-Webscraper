@@ -1,4 +1,4 @@
-# Best-Buy-Webscraper
+# Business Intelligence Project: Best Buy Webscraper
 **Project Goal**
 
 The project aimed to equip our team with the skills and knowledge needed to make informed business decisions by understanding competitor pricing strategies to enable iDC TV Inc. to regain its competitive edge in the TV market through data-driven insights. 
